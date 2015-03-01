@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: 钱利江(Tim)
+  name: Tim Qian
   avatar: bio-photo.jpg
   bio: "A postgraduate student majors in physics and loves coding."
-  email: timqian92@gmail.com
+  email: "timqian92@gmail.com"
   disqus-shortname: timqian
   twitter: #username
   facebook: tim.qian
