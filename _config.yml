@@ -26,16 +26,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: 钱利江(Tim Qian)
+  name: 钱利江(Tim)
   avatar: bio-photo.jpg
-  bio: ""
-  email: 
+  bio: "物理学研究生在读，热爱编程"
+  email: timqian92@qq.com
   disqus-shortname: timqian
   twitter: #username
-  facebook: #username
+  facebook: 钱利江
   google:
-    plus: timqian92@gmail.com
-    analytics: 
+    plus: #timqian92@gmail.com
+    analytics: UA-56506279-1
     verify: 
     ad-client: 
     ad-slot: 
